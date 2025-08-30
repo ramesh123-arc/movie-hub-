@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CineFlix - Premium Movie Collection & Downloads</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Discover and download premium movies in HD quality. CineFlix offers the best collection of movies with multiple download options.">
+    <meta name="keywords" content="movies, download, HD, cinema, films, streaming, entertainment">
+    <meta name="author" content="CineFlix">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="CineFlix - Premium Movie Collection">
+    <meta property="og:description" content="Discover and download premium movies in HD quality">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://cineflix.com">
+    <meta property="og:image" content="https://images.unsplash.com/photo-1489599735734-79b4bbdc5c04?w=1200&h=630&fit=crop">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="CineFlix - Premium Movie Collection">
+    <meta name="twitter:description" content="Discover and download premium movies in HD quality">
+
+    <!-- Favicon -->
+    <link rel="canonical" href="https://cineflix.com">
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "CineFlix",
+        "description": "Premium movie collection with download facility",
+        "url": "https://cineflix.com",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://cineflix.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header with AdSe
+Asset 2 of 12
